@@ -1,0 +1,8 @@
+{
+  "name": "KSEB Field Verification Form",
+  "description": "Electrical estimate preparation and field verification form for KSEB officers with photo capture, GPS coordinate fetching, PDF download, and record management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

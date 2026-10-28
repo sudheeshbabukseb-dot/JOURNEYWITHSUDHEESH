@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clipboard/Device Base -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M34,26 L74,26 C77.3,26 80,28.7 80,32 L80,80 C80,83.3 77.3,86 74,86 L34,86 C30.7,86 28,83.3 28,80 L28,32 C28,28.7 30.7,26 34,26 Z" />
+    <!-- Meter Display screen -->
+    <path
+        android:fillColor="#102A43"
+        android:pathData="M35,36 L73,36 C74.1,36 75,36.9 75,38 L75,54 C75,55.1 74.1,56 73,56 L35,56 C33.9,56 33,55.1 33,54 L33,38 C33,36.9 33.9,36 35,36 Z" />
+    <!-- Digital display segments/lines -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M38,42 L48,42 C48.5,42 49,42.5 49,43 L49,45 C49,45.5 48.5,46 48,46 L38,46 C37.5,46 37,45.5 37,45 L37,43 C37,42.5 37.5,42 38,42 Z" />
+    <path
+        android:fillColor="#69F0AE"
+        android:pathData="M52,42 L68,42 C68.5,42 69,42.5 69,43 L69,45 C69,45.5 68.5,46 68,46 L52,46 C51.5,46 51,45.5 51,45 L51,43 C51,42.5 51.5,42 52,42 Z" />
+    <path
+        android:fillColor="#82B1FF"
+        android:pathData="M38,49 L62,49 C62.5,49 63,49.5 63,50 L63,51 C63,51.5 62.5,52 62,52 L38,52 C37.5,52 37,51.5 37,51 L37,50 C37,49.5 37.5,49 38,49 Z" />
+    <!-- Top Clip -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M44,22 L64,22 C65.1,22 66,22.9 66,24 L66,28 L42,28 L42,24 C42,22.9 42.9,22 44,22 Z" />
+    <!-- Bold Lightning Bolt & Verification Checkmark -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M58,58 L44,72 L53,72 L49,84 L65,68 L56,68 Z" />
+    <!-- Check circle badge -->
+    <path
+        android:fillColor="#00C853"
+        android:pathData="M70,68 C74.4,68 78,71.6 78,76 C78,80.4 74.4,84 70,84 C65.6,84 62,80.4 62,76 C62,71.6 65.6,68 70,68 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66.5,76 L69,78.5 L74.5,73 L76,74.5 L69,81.5 L65,77.5 Z" />
+</vector>
